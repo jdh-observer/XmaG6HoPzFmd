@@ -1,60 +1,15 @@
-# Journal of Digital History Author's Repository
+# Leveraging Open Source LLMs for Historical Databases of Agricultural Science Research
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C2DH/template_repo_JDH/main?filepath=article.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/XmaG6HoPzFmd/main?filepath=article.ipynb)
 
-This repository serves as a resource for authors submitting articles to the [Journal of Digital History](https://journalofdigitalhistory.org).
-It contains a Jupyter notebook that provides an example and a simple structure that can be used to write articles for the journal.
-The repository also includes a `preflight`github action that can be automatically triggered on commit, but by default, it is set to `workflow_dispatch`and actionable from the `actions` page on GitHub.
-The preflight action generates a report within the repository that contains information about the adherence of the article to the submission guidelines.
+## Abstract
 
-## Contents
+If historians’ tasks include identifying relevant information, discerning recurring themes across records, analysing the evolution of ideas or institutions over time, and contextualizing these within their broader contexts—all while maintaining interpretive and scholarly rigour—how can we effectively work with digital corpora that are too large to tackle manually? Large language models (LLMs) appear to be a possible solution.  
 
-`article.ipynb` - This Jupyter notebook provides an example and a simple structure that authors can use to write articles for the Journal of Digital History. You can rename it according to your article name.
+The modus operandi we propose here is using an open-source LLM framework (H2OGPT), through which historians can control text input and the source citations used to generate every response are specified via the retrieval-augmented generation (RAG) capability. Using a case that emerged from our research on rice science of the International Rice Research Institute (IRRI) in West Africa, our corpus was intended to audit organizations’ perspectives by reading the documents that IRRI uploaded online as part of the Staff Publications. As IRRI became globally known for its scientific and technological interventions in rice farming in Asia, how would this research institute interpret West African rice cultures and landscapes when asked to recreate the miracle in that region in the 1970s and ’80s?  
 
-`.github/workflows/github-actions-preflight.yml` - This workflow file contains the preflight action that can be triggered automatically on commit or manually using the workflow_dispatch event to check that the article respects the Journal guidelines.
+Two crucial insights emerged from our interactions with the corpus. First, we argue that LLMs are best used not as replacements for analysis but as “sparring partners” for reasoning. Second, after reviewing source citations, it becomes clear that the LLM often favours specific sources without an immediately human-interpretable reason. The selected excerpts do not always appear relevant or meaningful to a human reader. We therefore defend the necessity of using AI within an Open History framework, where researchers retain control over the corpus they upload, and verify the cited sources, thereby enhancing the transparency of research processes.
 
-The preflight action generates or updates a report markdown file in the repository that provides information about the adherence of the article to the submission guidelines, usually named `report.md`
+## Keywords
 
-`requirements.txt` - stores information about all the libraries, modules, and packages in itself that are used while developing a particular project.
-
-`runtime.txt` - specify the version of the runtime (e.g. the version of Python ). Have python-x.y in runtime.txt to run the repository with Python version x.y
-
-
-## Getting Started
-
-This repository it's a _template_, that is, it can be used as a starting point for new repositories.
-On GitHub.com:
-
-1. navigate to the main page of the repository.
-2. Above the file list, click Use this template.
-3. Select Create a new repository.
-4. Type a name for your new repository, and an optional description.
-5. Click Create repository from template.
-
-Please follow the rest of the documentation on [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) to understand how to create a new repository from this template.
-
-Use the example notebook as a template to write your article. You can modify the notebook to suit your needs and add your content.
-
-## Preflight Action
-
-To check if the article respects the Guidelines, we decided to create a `preflight` GitHub action that can be triggered automatically on commit - or manually using the `workflow_dispatch` event. The action is triggered by the `github-actions-preflight.yml` file in the `.github/workflows` folder.
-By default, the preflight action is set to `workflow_dispatch`, which means you can manually trigger it by going to the "Actions" tab in the repository, selecting the "Preflight" workflow, and clicking the "Run workflow" button.
-The preflight action will generate a report in the repository that provides information about the adherence of your article to the submission guidelines.
-
-## MyBinder
-
-The repository also contains a `requirements.txt` and a `runtime.txt` file that can be used to create a MyBinder environment. Check: https://mybinder.readthedocs.io/en/latest/using/config_files.html#preparing-a-repository-for-binder
-The MyBinder environment can be used to run the example notebook to test that the code runs smoothly. 
-
-## Contribution Guidelines
-
-We welcome contributions to this repository that aim to improve the example notebook, the preflight action, or the overall workflow for authors submitting articles to the Journal of Digital History. Just contact us or open an issue.
-
-## License
-
-Copyright (C) 2023 university of Luxembourg.
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-This program is distributed in the hope that it will be useful, but without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. See the GNU Affero General Public License for more details.
-You should have received a copy of the GNU Affero General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-We hope this repository and the provided example notebook are helpful for authors submitting articles to the Journal of Digital History. If you have any questions, feedback, or suggestions, please feel free to open an issue or contact us. Thank you for your contribution!
+H2OGPT, open History, open Science, LLM, International Rice Research Institute, Green Revolution, gender, market

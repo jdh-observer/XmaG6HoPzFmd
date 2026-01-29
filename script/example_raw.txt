@@ -1,0 +1,937 @@
+INSECT PESTS AND DISEASES OF
+RICE IN AFRICA
+M. S. ALAM, V. T. JOHN, AND KAUNG ZAN
+Rice is the staple food of more than half of mankind, and 90% of the world's rice is
+produced and consumed in Asia. Although Africa's rice area is only 3.5% of the
+worlds total area and about 2.2% of its total production, rice production in Africa
+registered a steady increase from 1961-65 to 1982. However, the per hectare yields
+in the major rice-growing countries in tropical Africa, excluding Egypt, have
+remained low in general.
+Rice production is affected by a wide range of insects, diseases, weeds, birds,
+and other vertebrate pests. Insects and diseases are two major constraints that
+limit rice production in Asia and Africa. Figures on crop loss due to insect and
+disease attack are not widely available. Cramer (19) estimated the world's average
+yield loss at about one-third of the value of the crop: 13.8% is caused by insect
+pests, 11.6% by diseases, and 9.5% by weeds. Barr et al (13) estimated that the yield
+loss attributable to insects, diseases, and weeds in Africa was 33.7% of potential
+production of which insects and diseases account for 14.4 and 5.8%, respectively.
+MAJOR INSECT PESTSOF RICE
+In Africa more than 80 species of insects have been reported to attack rice, but
+only about 15 species are considered important. Because of the diverse conditions
+under which rice is grown, from temperate to tropical areas and in different
+altitudes, pest problems also vary from one area to another. Most insect species
+causing damage to rice in Africa are indigenous species, different from those
+found in Asia (Fig. 1). Within Africa, the severity of rice insect pests differs
+considerably in different climatic zones and ecosystems (Table 1,2). The insect
+pests of rice in Africa are classified according to the plant parts they damage:
+internal stem feeder, leaf feeder, leaf and stem sucker, grain sucker, and root
+feeder. The relationship of crop phenology and field infestation of major insect
+pests in irrigated rice in Nigeria is shown in Fig. 2.
+Entomologist. pathologist, and IRRI liaison scientist, International institute ofTropical Agriculture,
+Ibadan, Nigeria.
+
+
+
+68 RICE IMPROVEMENT IN EASTERN, CENTRAL, AND SOUTHERN. AFRICA
+Africa
+Asia
+Grain suckers
+Stenocons spp.
+Leptocarisa acuta
+Aspavia spp.
+Ear-cutter
+Mythimna spp.
+Nilaparvata meander - Nilaporvata lugens
+Nephotettix spp.
+Nephatettix: spp.
+Stemo and leaf: suckers
+Sogotodes cubanm -
+Sogatella furcifera
+White flies
+Brevennia rehi
+Mites
+Thrips
+Epilachna similis
+Dicladispa ormigera
+Leaf feeders
+Nymphula stagnalis
+Cnaphalocrosis medinalis
+Hlspids
+Hydrellia spp.
+Hydrellias sp.
+Nymphula depunctalis
+Spodoptera: sp.
+Spodoptera mauritia
+Chilo spp
+Tryporyza incertulas
+Moliarpha sgaratella Chilospp.
+Internal stem feeders
+Sesamiaspp.
+Sesamia inferens
+Diopsis spp
+Orseolia oryzae
+Orseolia oryzivora
+Termites
+Mole cricket
+Root feeders
+Mole cricket
+Termites
+Root aphid
+Potentia/pests
+1. Insect pests of major importance to rice in Africa and Asia (9).
+Table 1. Prevalence of rice pests in the major climate zones (2, 3, 9).
+Insects
+Humid
+Guinea
+Sudanian
+tropical
+savanna
+savanna
+Maliarpha separatella
+++
+++
+Chilo spp.
+++
++
+++
+Sesamia spp.
+++
+Diopsis spp.
+++
+Orseolia oryzivora
+++
+Grain suckers
+++
+White fly
+++
+Termite
+++
+Armyworm
+Nymphula depunctalis
+++
+Whorl maggot
+Black beetle
+Aphid
+Mole cricket
+Hispa
++
+Leaf folder
++
+++ - abundant, + - present but not abundant, - = not present
+
+
+
+INSECT PESTS AND DISEASES OF RICE IN AFRICA 69
+Table 2. The relative occurrence of insect pests in different eco-
+systems (2, 3, 9).
+Insect
+Upland
+Lowland
+Irrigated
+Maliarpha separatella
+++
++++
++++
+Chilo spp.
+++
+++
+++
+Sesamia spp.
+++
+Diopsis spp.
++
++++
+Orseolia oryzivora
+++
+Nymphula stagnalis
+++
+Grain suckers
+++
+++
+Termite
+++
+Epilachna sirilis
+++
+Army worm
+++
++
+Aphid
++
+Mole cricket
+++
+Whorl maggot
+*
+White fly
+Black beetle
+Leaf folder
++
+Hispa
++
+++
+t
++++ = widely abundant, ++ = abundant, + = present but not abun-
+dant, = not present
+I I
+Vegetative phose
+Reproductive
+Ripening
+phase
+phase
+Diopsis
+-
+N
+Stem borers
+Grain suckers
+Gall midge
+-
+
+Whorl maggot
+Case worm
+-
+Period of activity
+Period of peak activity
+-
+2. Major insect pests of lowland rice in Nigeria and their relation to growth stages of plant (9).
+
+
+
+70 RICE IMPROVEMENT IN EASTERN, CENTRAL, AND SOUTHERN AFRICA
+Internal stem feeders
+Among the insects attacking rice, internal stem feeders generally cause the most
+damage. In this group, lepidopterous borers and two dipteran, the stalk-eyed fly
+and GM, are important. To their feeding habits and the late appearance of external
+injury symptoms, their presence usually remains undetected for some time.
+Among the internal stem feeders, SBs including stalk-eyed fly, are most
+widespread and observed more frequently than GM. In Africa, SBs, mainly
+Pyralidae, such as Chilo, Maliarpha, Scirpophaga, and Adelphrupa genera,
+and the Noctuidae, such as Sesamia genus, are reported (7). Among these, three
+species, named according to the color of the full-grown larvae, are white SB,
+Malarphaseparatela, striped SB (Chilo spp.), and pink SB (Sesamia spp.) are
+common in Africa.
+White stem borer (Maliarpha separatella Rag.). Only one species in this genus
+is considered a rice pest. It is predominant in all rice ecosystems in Africa. The
+adult moth is yellow, with a reddish-brown line along the edge of the forewings.
+Unlike other SBs, its infestation is reported to not produce the usual symptoms of
+"dead heart" or "white head," but if the infestation is at early flowering stage and
+feeding damage is serious then sometimes "white head" symptoms appear. The
+damage on the rice stem is very typical; perforated knots with necrosis inside the
+internode (37). Some yield components, such as number and weight of filled
+grains, are affected by the attack of this insect (7, 26). During adverse
+environmental conditions, larvae of white SB can undergo diapause in rice
+stubble.
+Pink stem borer (Sesamia spp.) This is the most polyphagous insect among
+the borers. It is more destructive on upland than lowland and irrigated rice. Two
+major species, S. calamistis and S. botanephaga, are present in Africa. S.
+calamistis seems to be the most common in east and west Africa, Malagasy, and
+southern Africa (17, 18). Generally the adult moth is light brown. The larvae feed
+inside the stem, cutting off the growing part of the plant from the base, causing the
+tiller to die. This condition during vegetative stage is known as "dead heart.*
+Similar damage during flowering stage results in empty white panicles known as
+"white head."
+Striped stem borer (Chilo spp.). Several species of Chilo are reported as rice
+pests in Africa, but Chilo zacconius, C. diffusilineus, and C. partellus are most
+common. Chilo species are also polyphagous. Adults are pale yellow with
+irregular black spots on the forewings and wing tips. After hatching, the young
+larva feeds on the leaves and then bores into the stem. As a result of larvae feeding
+inside the stem, the plant shows "dead heart" and "white head' symptoms at the
+vegetative and reproductive stages, respectively.
+Stalk-eyed fly. Indigenous to Africa, there are many species of Diopsis, but the
+most important species are Diopsis (thoracica) macrophthalma, D. apicalis, and
+D. collaris. Among these, D. macrophthalma is predominant (18, 11). It is more
+abundant in humid tropical and Guinea savanna than in Sudanian savanna zones.
+It is more serious in irrigated and lowland rice ecosystems than in upland rice. It
+generally attacks the rice plant at the early tillering stage. Peak infestation usually
+occurs between 20 to 40 DT (11). "Dead heart" damage, similar to that caused by
+
+
+
+INSECT PESTS AND DISEASES OF RICE IN AFRICA 71
+lepidopterous SBs occurs. Late infestation can also cause *'white head'
+symptoms, but this is not very common. The adults are easy to recognize by two
+long projections at the side of the head with eyes on the tips and two big spines on
+the thorax. D. macrophthalma is bigger than D. apicalis and D. collaris.
+Moreover, the wings of D. macrophthalma are transparent and have no black
+spots at the tips whereas in D. apicalis and D. collaris, there are black spots at the
+wing tips.
+Gall midge (Orseolia oryzivora H and G). The GM is well established in
+countries of Guinea and Sudan savanna, such as Sudan, Cameroon, Mali, Upper
+Volta, Ivory Coast, Senegal, Guinea Bissau, and Nigeria (12, 23, 25, 14). This
+species is morphologically distinct from the Asian species. It is one of the most
+serious and widespread pests in Upper Volta in irrigated, rainfed, or lowland rice
+(14). The adult fly is about the size of a mosquito, nocturnal, and phototropic. The
+feeding of the maggot stimulates the leaf sheath to grow into a gall (silver shoot).
+Tillers with galls do not bear panicles.
+In addition to the direct feeding, the GLHS and planthoppers are vectors of
+several virus diseases in Asia. In Latin America, planthoppers, Sogatodes
+oryzicola and S. cubanus, are vectors of hoja blanca virus disease. In Africa,
+Sogatodes cubanus is reported on rice and maize fields but feeds mainly on
+grasses. Fortunately, none of these virus diseases existing in Asia and Latin
+America is detected in Africa yet.
+White fly. With recent increases in rice cultivation, the incidence of white fly is
+gradually increasing. There are two species of white flies which have so far been
+reported to infest rice plants in Africa, namely Aleurocybotus indicus and
+Trialeurodes oryzae (20). Trialeurodes is more common in Upper Volta during
+the hot DS, but Aleurocybotus indicus is common in irrigated rice in the Senegal
+river valley. From February to April in 1983, white-fly infestation was also observed
+in paddy screen houses and irrigated rice fields on IITAS farm at Ibadan, Nigeria
+(Alam, 1983 unpublished). White fly outbreaks depend on environmental
+conditions; high temperature and low humidity favor its rapid development. The
+incidence of this insect is also reported in Mauritania (2, 3).
+Leafhoppers. Two species of GLHS, Nephotettix modulatus and Nephotettix
+afer, are found in Africa.
+Planthoppers. In this group, there are mainly species of the genus Nilaparvata,
+Sogatella, and Sogatodes. In Africa, some species of Nilaparvata and Sogatodes
+are present. Nilaparvata meander was reported in Sudan and French Guinea
+(21). In Nigeria BPH was reported (39) and hopper burn was noticed in one field at
+Ibadan in 1983 (8).
+Grain suckers
+There are at least 15 species of grain suckers that have been reported in Africa (1).
+Of these, Aspavia armigera, Stenocoris claviformis, Reptortus sp., Nezara sp.,
+and Miperus sp. are important. Both adults and nymphs cause damage to
+developing grains. The damaged grains have diffused brown spots at the point of
+feeding. Heavily damaged grains are either partially filled or empty.
+
+
+
+72 RICEI IMPROVEMENT IN EASTERN, CENTRAL, AND SOUTHERN AFRICA
+Root feeders
+In this group, termites, mole crickets, black beetles, and aphids are important.
+Termites. Among termites, Microtermes and Macrotermes species have been
+reported as pests of rainfed upland rice. They attack the plants below the ground
+level. As a result of their attack, the plant shows wilting symptoms and ultimately
+dies. If the infestation occurs at booting or flowering stage, "white head"
+symptoms also appear.
+Mole crickets. Both nymphs and adults of the mole cricket burrow along
+beneath the soil surface and attack the plants below ground close to the roots.
+Generally, this brown insect occurs only on upland rice or on irrigated rice if there
+is nadequate water supply. Young seedlings are most commonly attacked.
+Aphids. There are two species of aphids which have been reported to attack the
+roots of upland rice plants in Sierra Leone (4). Generally, hot dry weather
+encourages the build-up of the colony. During the late harmattan season in
+December 1982, the aphids, Rhopalosiphum padi (L) and Tetraneura nigriab-
+dominalis Sasaki were observed feeding on the roots of some upland rice
+varieties at IITA in Ibadan, Nigeria (5).
+CONTROL
+Insects can be controlled by chemical, cultural, and biological methods. Of these,
+the conventional method of insect control is chemical because of its immediate
+impact on the target pest. However, chemical control of rice insect pests is not
+Table 3. Major insect pests of rice for which varietal resistance has
+been recorded (10, 30, 31, 36, 38).
+Progress in
+Common name
+Scientific name
+breeding
+for resistance
+Yellow stemborer
+Scirpophaga incertulas
+A, B
+Striped borer
+Chilo suppressalis
+A, B
+Chilo zacconius
+A
+Pink borer
+Sesarnia spp.
+A
+White stemborer
+Maliarpha separatella
+A
+Stalk -eyed fly
+Diopsis macrophthalma
+A
+Gall midge
+Orseolia spp.
+A, B,C, D
+Brown planthopper
+Nilaparvata lugens
+A, B, C, D
+Green leafhopper
+Nephotettix virescens
+A, B, C
+Whitebacked
+planthopper Sogarella furcifera
+A, B, C
+Rice whorl maggot
+Hydrellia philippina
+A, B
+Rice delphacid
+Sogatodes orizicola
+A, B
+Rice bug
+Leptocorisa varicomis
+A, C
+Rice stink bug
+Oebalus pugnax
+A
+Rice leaf folder
+Cnaphalocrosis medinalis
+A
+Rice hispa
+Dicladispa armigera
+A
+Rice thrips
+Baliothrips biformis
+A
+Zigzag rice leafhopper
+Recilia dorsalis
+A
+Rice caseworm
+Nymphula stagnalis
+A
+A = sources of resistance identified. B = resistant varieties released.
+C = genes for resistance identified. D = insect biotypes encountered.
+
+
+
+INSECT PESTS AND DISEASES OF RICE IN AFRICA 73
+Table 4. Varieties/lines tested against major insect pests of rice at
+IITA.
+Varieties
+Insect
+Varieties
+identified
+Condition of
+tested
+as resistant
+test
+(no.)
+(no.)
+Pink borer (Sesamia spp.) 800
+6
+Field and
+screenhouse
+White borer
+(Maliarpha separatella)
+2,000
+5
+Field
+Striped borer
+(Chilo zacconius)
+600
+10
+Screenhouse
+Stalk-eyed fly
+(Diopsis macrophthalma) 2,036
+35
+Screenhouse
+Whorl maggot
+(Hydrellia sp.)
+430
+2
+Field
+Caseworm
+(Nymphula stagnalis)
+700
+4
+Field
+Gall midge
+(Orseolia oryzivora)
+244
+6
+Field
+6,810
+68
+always rewarding. Failure to apply the right insecticide at the right time and at the
+right dosage often leads to decreased benefits to the farmer. Consistent use of
+insecticide has led to the development of resistance of some rice insects to certain
+insecticides. Therefore, a successful pest control program will have to utilize not
+only chemicals, but also other components which will be more effective, less
+costly, and easily adaptable by farmers.
+Different cultural control methods can be effectively used against pests. Use of
+R varieties is one of the most effective methods of controlling insect pests. It
+provides an inexpensive method of insect control and is compatible with other
+control methods in the IPM approach. To date, varietal resistance has been
+recorded for about 19 insect pests of rice, and varieties resistant to 8 insects have
+also been released (Table 3). IRRI and some countries in Asia have developed
+several varieties with resistanceto SBs, GLHS, BPHS, and GM, but most of the insect
+species of rice in Africa are different from those found in Asia. As such, the insect
+resistant varieties developed at IRRI or other Asian countries may or may not be
+best suited for use in Africa for controlling insects. Therefore, at IITA major efforts
+have been made to identify the sources of resistance to African species of SBs
+(white, pink, and striped), stalk-eyed fly, GM, RCW, and RWM. The success of
+resistance breeding depends to a great extent on the development of suitable
+screening techniques. At IITA, screening techniques against stalk-eyed fly and
+pink SB have been developed. A total of 6810 varieties/lines were screened at IITA
+against 7 insect species. This led to the identification of 68 varieties as R or MR
+(Table 4). Some selected R sources are listed in Table 5. Unfortunately, most of
+the varieties identified as R or MR have poor agronomic characteristics and
+yielding ability. Therefore, a breeding program has been initiated utilizing R
+donors to develop varieties R to insect pests. The search will also be continued to
+
+
+
+74 RICE IMPROVEMENT IN EASTERN, CENTRAL, AND SOUTHERN. AFRICA
+Table 5. Sources of resistanceto major insect pests in Africa (27, 28,
+29, 30, 31, 38).
+African striped
+Stalk -eyed fly
+African pink
+stem borer
+stem borer
+TOS 2513
+IR579-160
+W1263
+Taitung 16
+Iguape Cateto
+Taitung 16
+PR403
+Leuang 28-1-64
+SML81B
+ITA6-20-1-BPI
+DNJ171
+DNJ171
+IR503-1-91-3-2-1
+CTG680
+DNJ146
+PR325
+IR589-53-2
+Sikasso
+H8
+E. L. Golpher
+Ratna
+IR 1561 -38-6-5
+African white borer
+Malagkit Sungsong
+Huange-sengoo
+ITA6-4-2
+SML81B
+TD10A
+IR1168-76a
+Magoti
+IR1561-38-6-5a
+Gall midge
+TOg 6324
+ITA7-7-2a
+W 1263
+TOg 6367
+TKM6 -
+BW100
+TOg 5560
+PTB18
+TOg 6481
+Caseworm
+PTB21
+TOg 6399
+IRRI Acc. 6621
+PTB10
+TOg 6390
+IRRI Acc. 12580
+TOg 6392
+IRRI Acc. 12556
+Whorl maggot
+ITA121
+IRRI Acc. 20427
+IR430-373-1-3
+DJ12-539-2*
+Taitung 314
+HPU741*
+Moderately resistant.
+find better sources of resistance in varieties with good agronomic characteristics
+and high-yield potential.
+Agronomic practices have some potential for reducing the population of many
+pest species and of increasing the beneficial ones. Closer spacing in mangrove
+swamp decreases the infestation of Maliarpha separatella (3). Infestation of SBs
+can also be reduced by shifting planting time. Rice planted late (after July) had
+higher infestation rates of all of the three major lepidopterous borers than those
+planted at the beginning of the season (6). During the infestation period, some
+mechanical methods can be used effectively to minimize populations of SBs and
+GM. Adults of lepidopterous borers and GM may be trapped and killed by a
+kerosene lantern as a light trap and a trough filled with a kerosene-water mixture
+(I part kerosene in 10 parts water) placed under the light trap. CW infestation can
+be reduced by draining water from the infested field and keeping the field dry for
+3.4 d. If draining water from the infested field is not possible, a small amount of
+kerosene can be added to the water surface to kill the floating CW larvae.
+Collecting of grain-sucking bugs in the afternoon by sweep net and killing them in
+kerosene water may also be practiced.
+Another approach to insect control is by insect pest management, the
+manipulation of pest or potential pest populations sO as to diminish their injury or
+render them harmless (22). Surveillance, monitoring, and forecasting of pests
+form major components of pest management (16). IPM systems for rice are in
+varying stages of development throughout Asia (24). Although WARDA has
+
+
+
+INSECT PESTS AND DISEASES OF RICE IN AFRICA 75
+initiated a pest management program in West Africa, a lot of fundamental
+information on the biology and ecology of insect pests and their natural enemies
+is still needed.
+MAJOR DISEASES OF RICE
+Although about 70 major and minor diseases of rice have been listed by Ou (35),
+this paper will restrict itself to the more common ones reported in Africa (Table 6).
+Blast
+Rice BI caused by Pyricularia oryzae Cav. is the most common and severe
+disease of rice in Africa. The disease is especially severe in upland and drought-
+prone areas, affecting leaves, nodes, and floral parts, particularly the neck of the
+panicle.
+Distribution. The disease is reportedly serious in Ghana, Mali, Nigeria, Togo,
+Upper Volta, Guinea Bissau, Senegal, Sierra Leone, and Malagasy (41). It has also
+been observed in high altitude, low-temperature-prone areas of Cameroon.
+Although details of the occurrence of this disease in other parts of Africa are not
+available, it is logical to expect that the disease is widespread in Africa.
+Symptoms. BI on leaves is identified particularly by characteristic spindle-
+shaped lesions. The disease, however, starts as pin-point lesions, and depending
+upon the susceptibility of the variety and the favorability of the environment, can
+kill the entire leaf or plant. A detailed scale for rating the disease reaction on leaves
+is given in the Standard Evaluation System for Rice (32).
+The most serious stage of the disease is neck BI, or rotten neck, which
+usually is seen as a blackish necrotic area at the base of the panicle. Sometimes
+the infection also occurs at the rachis or rachilla causing varying degrees of
+Table 6. The parts of plant affected by more common rice diseases and the pathogens involved.
+Disease
+Part of plant affected
+Causal organism
+Blast
+Leaf, node flowering axis. Pyricularia oryzae Cav.
+Leaf scald
+Mature leaves
+Monographella albesens (= Rhyncos-
+porium oryzae)
+Sheath blight
+Leaf sheaths, leaves
+Thanetophorus cucumeris (Rhizoc-
+tonia solani)
+Sheath rot
+Flag leaf sheath
+Acrocylindrium oryzae
+Narrow brown leaf spot Leaves
+Cercospora oryzae
+Brown spot
+Leaves, spikelets
+Helminthosporium oryzae
+Glume discoloration
+Spikelets
+Acrocylindriur oryzae
+Curvularia sp.
+Alternaria (Trichochonis)
+Fusarium sp.
+False smut
+Spikelets
+Utilaginoidea virens
+Bacterial blight
+Tillers, leaves
+Xanthomonas campestris pv. oryzae
+Bacterial streak
+Leaves
+Xanthomonas oryzae f. sp. oryzicola
+Rice yellow mottlea
+Whole plant
+Rice yellow mottle virus
+aAfrican specific. The rest are reported in most rice-growing countries.
+
+
+
+76 RICE IMPROVEMENT IN EASTERN, CENTRAL, AND SOUTHERN AFRICA
+sterility of grains. In susceptible varieties, the nodes of the flowering axis are also
+infected, causing the panicle to break at the nodes.
+Factors favoring the disease. BI is aggravated by drought, low light intensity,
+and nutritional imbalances, especially K deficiency. At Suakoko station in Liberia,
+IR3880-17, C22, B3451-220-57, and IRAT13 have been identified as R to BI. These,
+however, need to be confirmed in other locations. Other factors that favor the
+disease are: excessive N supply, close planting, heavy dew formation, change in
+the virulence of the causal pathogen, and the susceptibility of the host variety.
+Temperature also plays an important role; relatively lower temperatures (20-
+28° C) are more conducive to infection; thus, the disease is more severe in cooler
+locations and/or in cooler months.
+Resistance. Many rice varieties with superior resistance to BI have been
+identified by carefully controlled screening tests (15). These varieties have shown
+resistance at several places in multilocational trials. Table 7 lists varieties from
+different sources with resistance to BI.
+Brown spot
+Caused by Cochliobolus miyabeanus (Helminthosporlum oryzae), BS has
+been reported from upland, hydromorphic, mangrove, and lowland ecologies of
+several countries in Africa. Severe infection of rice plants by BS is reported from
+Benin, Mali, Nigeria, and Upper Volta (41).
+Symptoms. Brown spots, oval or oblong usually with a yellow halo around each,
+are seen on leaves. The spots vary in size and number: the larger spots are
+sometimes 5 mm long. The susceptibility of a variety is often determined by the
+area affected by the spot. Infection can also occur on seedlings, which often leads
+to the death of seedlings. Seed infection is characterized by spots on the grains.
+Table 7. Resistant varieties for rice diseases.
+Resistant donors
+Disease
+Tall
+Dwarf
+Blast
+Tetep
+ITA257
+Lac 23
+ITA120
+OS6
+ITA 150
+Moroberekan
+IRAT13
+IRAT14
+Leaf scald a
+Rernadja
+Sheath blight a
+Ta-poo-cho-z
+Pankaj
+Dissi Hatif
+Bacterial blight a
+BJ1
+IET4141
+DV85
+Cempo Selak
+Rice yellow mottle
+LAC23
+Moroberekan
+IR1846-293-3
+OS6
+a Results from tests outside Africa.
+
+
+
+INSECT PESTS AND DISEASES OF RICE IN AFRICA 77
+Leaf scald
+This disease caused by Monographella albescens (Rhyncosprium oryzae)
+has been reported in upland, swamp, and irrigated ecologies.
+Distribution. Occurrence of leaf scald in Benin, Ghana, Ivory Coast, Liberia,
+Nigeria, Senegal, Sierra Leone, and Upper Volta has been confirmed (41). The
+disease is especially severe in high rainfall areas of West Africa although
+information on the occurrence of the disease in east, central, and south Africa is
+scanty.
+Symptoms. The symptoms of the disease are seen mainly on leaves. The
+infection starts from leaf tips or margins as brown necrotic areas and the lesions
+gradually progress, under favorable conditions, to form successive light-brown
+and dark-brown bands. The area affected on the leaf varies from negligible to
+about 50% with older leaves more affected than younger ones.
+Leaf scald is reported on varieties with excess foliage and under heavy
+fertilization. Varieties with broad leaves show more infection than those with
+narrow leaves. Similarly, low light intensity due to overcast sky tends to increase
+disease.
+Resistance of a high order for this disease has yet to be detected.
+Sheath blight
+The disease caused by Thanetophorus cucumeris (Rhizoctonia solani) is
+becoming a serious problem in some ricegrowing countries of Africa.
+Symptoms. Under normal circumstances ShB is often inconspicuous, restrict-
+ing itself to basal leaf sheaths of dying tillers. The basal sheaths often display
+oblong blotches usually with water-soaked areas and with light-brown peripheries.
+Under favorable conditions of high humidity, shade. and heavy N fertilization, ShB
+moves to the upper leaves that often display band-like zonation, killing the leaves.
+In extreme cases. ShB reaches the panicles, killing the entire plant or tillers.
+Sclerotia are seen on the affected parts. These are whitish when young but dark
+brown when old. In extreme cases, the tillers die resembling the "kresek phase"
+of BLB.
+Varieties R to this disease have not yet been found although a few tolerant
+varieties have been reported in Asia (Table 7).
+Sheath rot
+Caused by Acrocylindrium oryzae, sheath rot is becoming important in many
+lowland areas particularly subjected to low temperature (around 20°C) during
+flowering period. It is more appropriate to say that sheath rot is a condition which
+arises out of a situation where the panicles get choked.
+Symptoms. Sheath rot is characterized by oblong to irregular brown blotches
+formed at the base of the flag-leaf sheath covering the panicles. Severe infection
+reveals visible mycelium (whitish in color) inside the flag-leaf sheath. This leads to
+infection of the spikelets as they emerge from the infected sheath and often the
+panicles are incompletely exserted. The affected panicles are often sterile,
+discolored, and with dark patches.
+
+
+
+78 RICE IMPROVEMENT IN EASTERN, CENTRAL, AND SOUTHERN AFRICA
+Glume discoloration
+Glume or grain discoloration is often a complex syndrome where saprophytic/
+pathogenic organisms are involved, and several species of fungi are implicated
+(35). Grain discoloration can be the result of other infections also as in sheath rot
+or due to cold or drought-induced choking of the panicles. However, when
+incubated the infected grains revealed the presence of the following organisms as
+major ones at IITA (34): Acrocylindrium oryzae; Alternaria (Trichochonis
+padwickii); Curvularia sp. (black kernel); Fusarium sp.; and Nigrospora oryzae
+(grain spot).
+Symptoms. Discoloration is partial or complete and may restrict itself to the
+glumes or may extend to the kernel. When the kernels are affected germination is
+reduced. Grain discoloration is a serious problem since discolored grains have
+poor marketability and milling recovery.
+In heavy rainfall areas the discoloration is quite serious since high moisture
+tends to promote colonization of these fungi. By contrast, in drier weather, there is
+less disease. Wounds caused by the feeding of insects are yet another
+predisposing factor for this disease. The syndrome is more pronounced on
+high-yielding varieties grown under upland than under lowland conditions.
+Varietal screening is in progress to identify varieties with tolerance to grain
+discoloration.
+Bacterial leaf blight
+The causal agent of BLB, Xanthomonas campetris pv. oryzae, has been reported
+in Cameroon, Malagasy, Niger, and Mali (33, 41). This disease can be a serious
+constraint in lowland rice production.
+Symptoms. At tillering stage BLB is characterized by death of tillers (kresek
+stage or wilt phase). Affected tillers wilt and die, resembling "dead hearts" caused
+by SBs. However, unlike the dead hearts, the wilted tillers will not dislodge easily
+when pulled, and the basal portion is slimy when crushed due to the presence of
+abundant bacterial cells.
+After the maximum tillering stage, the more common BLB symptoms are seen.
+The margins and apices show wilted, greyish, necrotic, water-soaked tissue, and
+the border between wilted and green area is wavy. When infected leaves are cut
+transversely and dipped in distilled water, the bacterial ooze can be seen from the
+vascular tissue. Excessive N application and low light intensity (shade) can
+increase disease severity.
+Rice yellow mottle virus disease
+Unlike other rice virus diseases, the African-specific RYMV is easily transmitted
+mechanically by sap inoculation. Insects with chewing mouth parts, such as
+Chaetocnema beetles, are also known to transmit the disease in the field. RYMV is
+reported mainly in irrigated or lowland paddy in several African countries, such as
+Kenya, Nigeria, Niger, and Upper Volta.
+Symptoms. The infected plants are generally stunted, the leaves showing
+yellow discoloration to light-yellow mottling depending upon varieties. Some
+show orange discoloration while many African-specific upland varieties are highly
+
+
+
+INSECT PESTS AND DISEASES OF RICE IN AFRICA 79
+tolerant to RYMV. Young plants are more susceptible to RYMV than older ones,
+and ifthe infection is severe, flowering is affected. Seed setting is extremely poor in
+severe cases.
+Recently, the wild rice species, Oryza longistaminata, has been found to
+harbor the virus (33) under natural conditions. This suggests that field spread of
+the virus might result from this species.
+BREEDING FOR DISEASE RESISTANCE
+The major objective for disease control is to breed R varieties. Although, R
+varieties are not available for all diseases, donors are available for some (Table 7).
+CONTROL
+Losses from rice diseases in Africa must be minimized. It is essential that the rice
+disease situation in each country and in each location be studied with reference to
+seasonality, intensity, and yield loss. With such information it is possible to use the
+following strategies to control or minimize losses from these diseases:
+Use of resistant varieties - Genetically R or tolerant varieties are preferred
+whenever such varieties are available. For instance, several BI resistant
+varieties are available for lowland and upland ecologies, and BI can be greatly
+minimized by growing such varieties. Similarly, varieties with high levels of
+tolerance to BLB are available, and if these are tested in disease-prone areas
+and their resistance is confirmed, then these can be directly introduced or
+used in an appropriate breeding program.
+Judicious use of N fertifizer - Diseases such as BI, ShB, leaf scald, and BLB
+are aggravated with increased application of N. Therefore, it is necessary to
+monitor the plant health when N application is contemplated. While fertilizer
+is necessary for proper plant growth and production, balanced
+application, particularly of P and K, should not be ignored while excessive
+doses of N can result in greater disease intensity. Application of K, on the
+other hand, has been recommended in cases where BS is a serious problem.
+Some of these beneficial effects of fertilizer use, however, need to be
+confirmed.
+Proper choice of planting time - In areas where the weather pattern and
+disease cycle are known, it is possible to adjust the planting time to escape the
+peak disease period. If the cold season begins in October, this will result in BI
+and sheath rot. Therefore, varieties should either be planted early or early
+duration varieties used, sO that the crop will mature before the unfavorable
+season sets in.
+Appropriate crop rotation Diseases can be minimized by breaking the
+continuity of the pathogen. Therefore, unless R varieties are grown, it is
+preferable to grow one crop of rice in the most favorable period and to grow a
+different crop in the following season. The best example is the Sahelian zone
+where a good rice crop can be grown between June and October followed by
+a good wheat crop in NovemberFebruary.
+
+
+
+80 RICE IMPROVEMENT IN EASTERN, CENTRAL.. AND: SOUTHERN. AFRICA
+Quarantine - Legislative control of plant pathogens, nematodes, and stored
+grain pests is an effective tool in preventing their spread in new areas.
+Phytosanitary and quarantine regulations are rigidly implemented in several
+countries. Thus, while exchange of germplasm is one of the important steps
+for crop improvement, this should be done under an effective and speedy
+plant quarantine umbrella.
+CONCLUSIONS
+Considering the differences in species of insect pests and disease pathosystems
+in Africa and elsewhere, genetic improvement must be geared toward resistance
+breeding. More information on the prevalence, incidence, and extent of damage
+by insect pests and diseases is needed, especially for central, east, and northern
+African countries. WARDA has been monitoring the pests and diseases in its
+member states in West Africa; however, in-depth studies are still needed on the
+biology and epidemiology of pathogens, and the biology, ecology, and economic
+threshold of important insect pests, since these components are essential for a
+sound resistance breeding program and for an effective IPM approach.
+Another very important need is for close, continuous monitoring of potentially
+destructive diseases, such as BLB, virus diseases, and of potential insect pests.
+The fact that virus vectors, such as BPH and GLH, have been reported in Africa
+underscores this need.
+One can safely conçclude that the need for more in-depth research on the
+insects and diseases of rice in Africa is imperative. Thus, the international research
+centers, such as IITA, IRRI, and WARDA, and regional centers in many African
+countries need to help African national programs independently and in collabora-
+tion in their respective areas of competency and mandate.
+REFERENCES CITED
+1. Agyen-Sampong, M. 1973. Insect pests of rice in Ghana and their control. A paper presented at
+WARDA Seminar on plant protection for rice crop. 21-29 May 1973. Monrovia, Liberia.
+2. Agyen-Sampong, M. 1982. The major pest problems of irrigated, upland and mangrove swamp
+rice ecosystems in the humid tropical, Guinea savana and sahel climatic zones. Pages 318-328 in
+Proc. of a course of Integrated Pest Management in Rice in Africa. 10-28 Jan 1982. WARDA,
+Monrovia, Liberia.
+3. Agyen-Sampong, M. 1982. Status and prospects of rice integrated pest management in the humid
+tropical zones. Pages 329-338 in Proc. of a course on integrated pest management in rice in West
+Africa. 10-28. Jan 1982, Monrovia. Liberia.
+4. Akibo-Betts, D.T., and S. A Raymund. 1980. Aphids as rice pests in Sierra Leone. Int. Rice Res.
+Newsl. 3(6):15-6.
+5. Akibo-Betts, D.T., J. W. Gibbons, M.S. Alam, and Y. Efron. 1983. Aphids on rice roots. IITA Res.
+Briefs 4:1-3.
+6. Akinsola, EA. 1979. The biology and ecology of rice stem borers in Nigeria. Ph.D. thesis, University
+of Ibadan, Nigeria. p. 217.
+
+
+
+INSECT PESTS AND DISEASES OF RICE IN AFRICA 81
+7. Akinsola, E. A., and M. Agyen-Sampong. 1982. The ecology, bionomics and control of rice stem
+borers in West Africa. A paper presented at the international study workshop on crop borers and
+emerging strategies for their control. 14-19 Jun 1982. ICIPE, Mbita Point Field Station, Kenya.
+8. Alam, MS., J. W. Gibbons, D. T. Akibo-Betts, K. Wasano, Kaung Zan, and Y. Efron. 1983.
+Hopperbum in rice caused by brown planthopper. IITA Res. Briefs 4:1-3.
+9. Alam, M.S., and D.T. Akibo-Betts. 1984. Field and storage insect pests of rice and their control. In
+Rice production manual. IITA, Ibadan, Nigeria (in press).
+10. Alluri, K., and MS. Alam. 1982. Genetic research in rice at the International Institute of Tropical
+Agriculture. A paper presented at the Third FAO/SIDA Seminar on Field crops in Africa and the
+Near East, Nairobi, Kenya, 6-24 Jun 1982.
+11. Alghali, MA. 1981. Studies on the relative susceptibility of rice varieties to. Diopsis thoracica west
+(Diptera, Diopsidae). Ph.D. thesis. University of Ibadan. p. 191.
+12. Anonymous. 1963. CAB (1951-74). Distribution maps of insect pests series A. (Agriculture). CIE
+MapNo.A 171.
+13. Barr, B.A.. C.S. Koechler, and R.F. Smith. 1975. Crop losses to insects, diseases, weeds and other
+pests. UC/AID Pest Management and Related Environmental Protection Proj., Univ. of California,
+Berkeley.
+14. Benzi. M. 1980. Rice entomology in Upper Volta. WARDA Annual Rice Review, APR/80/7
+Monrovia, Liberia.
+15. Bidaux, J.M. 1978. Screening for horizontal resistance to rice blast (Pyricularia oryzae) in Africa. In
+LW. Buddenhagen and G.J. Persley, ed. Rice in Africa. Academic Press, N.Y. 356 p.
+16. Bottrell, D.G. 1979. Integrated pest management. Rep for council Environ. Quality, U.S.
+Government Printing Office No. 041-011-00049-1. Washington, D.C.
+17. Breniere, J. 1973. The main rice parasites in West Africa and their control. A paper presented at the
+WARDA Seminar on plant protection for rice crop. 21-29 May 1973 Monrovia, Liberia.
+18. Breniere, J. 1976. The principal insect pests of rice in West Africa and their control. WARDA,
+Monrovia, Liberia, p. 52.
+19. Cramer, H.H. 1967. Plant protection and world crop production. Pflanzer Schutz Nactrol. Bayer
+20:1-525.
+20. Diop, T. 1978. Entomological problems in the rice areas of SEAD. Monograph. p. 15.
+21. Fennah, R.G. 1958. Fulgoridea from West Africa. Bull. de I'Institut Fondamental d'Afrique Noire
+Series A 20:460-538.
+22. Flint, M.L, and Van den Bosch R. 1981. Introduction to integrated pest management. Plenum Press,
+New York. 240 P.
+23. Grist, D.P., and R.A.W. Lever. 1969. Pests of rice. Longmans, Green & Co. Ltd. London. p. 520.
+24. Heinrichs, E.A., R.C. Saxena, and S. Chelliah. 1979. Development and implementation of insect
+pest management systems for rice in tropical Asia. Food and Fertilizer Technology Centre.
+Extension Bulletin No. 127.
+25. Hill, D.S. 1975. Agricultural insect pests of the tropicsand their control. Cambridge University Press,
+Cambridge London. P. 516.
+26. Ho, D.T., J.J. Njokah, and J.G. Kibuka. 1983. Studies on rice stem borers in Kenya with emphasis
+on Maliarpha separatella Rag. Insect. Sc. & Its Application. 4:1, 2.
+27. International Institute of Tropical Agriculture. 1975. Annual report for 1974. Ibadan, Nigeria.
+28. International Institute of Tropical Agriculture. 1976. Annual report for 1975. Ibadan, Nigeria.
+29. International Institute of Tropical Agriculture. 1977. Annual report for 1976. Ibadan, Nigeria.
+30. International Institute of Tropical Agriculture. 1983 Annual report for 1982. Ibadan, Nigeria.
+31. International Institute of Tropical Agriculture, 1984. Annual report for 1983. (in press).
+32. International Rice Research Institute. 1980. Standard Evaluation System for Rice. 44 p.
+33. John, V.T., G. Thottapilly, and V.A. Awoderu. 1984 Occurrence of rice yellow mottle virus in some
+Sahelian countries in West Africa. FAO. Plant Prot. Bull. (Accepted for publication),
+34. Ngala, G.N. 1982. Studies on grain and panicle disease of rice, M. Phil. thesis, University of Ibadan.
+35. Ou, S.H. 1972. Rice diseases. Commonwealth Mycological Institute, England. 368 p.
+36. Pathak, M.D., and R.C. Saxena. 1978. Wiley Inter. Science, New York.
+37. Pollet, A 1979. Insect actions and real economic losses from Maliarpha separatella, first borer of
+lowland rice in central Ivory Coast. ORSTOM, Ivory Coast.
+
+
+
+82 RICE IMPROVEMENT IN EASTERN, CENTRAL, AND SOUTHERN AFRICA
+38. Soto, P.E., and Z. Siddiqi. 1976. Screening for resistance to African insect pests. A paperpresented
+at the WARDA Varietal Improvement Seminar. Bouake, Ivory Coast.
+39. Soto, P.E., and Z. Siddiqi. 1978. Insect pests and rice cultivation in Africa. Pages 175-180 in IW.
+Buddenhagen and G.J. Persley, ed. Rice in Africa. Academic Press. New York. 356 p.
+40. West African Rice Development Association. 1982. Report of monitoring tour 1977/78, Monrovia,
+Liberia.
+41. Zan, K., A.T. Perez, K. Alluri, and N.Q Ng. 1981. Problems and approaches on genetic
+improvements of rice in sub-Sahelian Africa. Mimeographed report.
