@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 set -e
+
 python -m nltk.downloader words
 python -m spacy download en_core_web_lg
